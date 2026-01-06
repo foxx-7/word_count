@@ -1,2 +1,2 @@
-# word_count
-a simple command line  word counter implementation in c
+  A simple and basic implementation of a text file word counter in c.
+Program accepts command line flags('-b', '-w', '-l') to count number of bytes(charscters), words and lines respectively of a text file.A '-a' flag can be used to output the values of the three above values all at once.A '--help' flag is also made avaliable for guidance on program usage.
